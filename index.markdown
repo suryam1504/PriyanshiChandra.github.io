@@ -25,6 +25,16 @@ title:
   </div>
 </div>
 
+<div class="about-me">
+<h2>About Me</h2>
+<p> I am a research assistant at IIM Udaipur working in operations management, particularly on stochastic inventory control. <br><br>
+
+Previously, I have been a visiting research assistant at the Zuse Institute Berlin (ZIB) in<a href="https://iol.zib.de/"> IOL group </a> where I worked with <a href="https://damaru2.github.io/">Dr. David Martínez-Rubio</a>. In summer 2023, funded by a DAAD-WISE scholarship, I interned at the Institute for Mathematical Stochastics, TU Braunschweig with <a href="https://www.tu-braunschweig.de/en/stochastik/team/muecke">Prof. Nicole Mücke</a>. I have also been mentored by <a href="https://satyakimukherjee92.github.io/bio/"> Dr. Satyaki Mukherjee</a> (TU Munich) and <a href="https://www.isical.ac.in/~akghosh/">Prof. Anil Kumar Ghosh</a> (Indian Statistical Institute, Kolkata). <br><br>
+
+I completed my Integrated M.Sc. in Mathematics from NIT Surat, India in 2024 where I graduated with a gold medal. My master's dissertation was on uniform convexity of p-norms.
+</p>
+</div>
+
 <!-- # About me
 
 **Research Assistant**

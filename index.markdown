@@ -15,7 +15,7 @@ title:
       Indian Institute of Management Udaipur <br><br>
       Udaipur, Rajasthan, India - 313001<br><br>
       <strong>Email</strong>: <a href="mailto:priyanshi.chandra@iimu.ac.in">priyanshi.chandra@iimu.ac.in</a><br><br>
-      <a href="assets/files/cv.pdf">CV</a>
+      <a href="https://drive.google.com/file/d/11IDuMNznJP1RjYiUbMZmYBOf5dBqAQ4B/view?usp=sharing">CV</a>
     </p>
   </div>
 
@@ -34,6 +34,16 @@ Previously, I have been a visiting research assistant at the Zuse Institute Berl
 I completed my Integrated M.Sc. in Mathematics from NIT Surat, India in 2024 where I graduated with a gold medal. My master's dissertation was on uniform convexity of p-norms.
 </p>
 </div>
+
+
+<div class="Research">
+<h2>Research Interests</h2>
+<p>
+My primary area of interest is <b>statistical learning theory</b> particularly developing methods for dealing with distribution shifts in data. I also like working on optimisation and causal inference. <br> <br>
+
+
+</p></div>
+
 
 <!-- # About me
 
